@@ -245,6 +245,11 @@
   resolved "https://registry.yarnpkg.com/@esbuild/linux-loong64/-/linux-loong64-0.15.7.tgz#1ec4af4a16c554cbd402cc557ccdd874e3f7be53"
   integrity sha512-IKznSJOsVUuyt7cDzzSZyqBEcZe+7WlBqTVXiF1OXP/4Nm387ToaXZ0fyLwI1iBlI/bzpxVq411QE2/Bt2XWWw==
 
+"@heroicons/react@^2.0.11":
+  version "2.0.11"
+  resolved "https://registry.yarnpkg.com/@heroicons/react/-/react-2.0.11.tgz#2c6cf4c66d81142ec87c102502407d8c353558bb"
+  integrity sha512-bASjOgSSaYj8HqXWsOqaBiB6ZLalE/g90WYGgZ5lPm4KCCG7wPXntY4kzHf5NrLh6UBAcnPwvbiw1Ne9GYfJtw==
+
 "@jridgewell/gen-mapping@^0.1.0":
   version "0.1.1"
   resolved "https://registry.yarnpkg.com/@jridgewell/gen-mapping/-/gen-mapping-0.1.1.tgz#e5d2e450306a9491e3bd77e323e38d7aff315996"

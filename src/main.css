@@ -1,3 +1,23 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@layer base {
+  h1 {
+    @apply text-2xl sm:text-4xl sm:hover:scale-110;
+  }
+}
+
+@layer components {
+  .alura-input {
+    @apply py-1 pl-5 dark:bg-dark-200 rounded-full w-full max-w-lg outline-none text-dark-100 dark:text-gray-200 placeholder:text-gray-500 placeholder:font-bold placeholder:text-xs placeholder:uppercase focus:border-alura-200 focus:border-2 dark:focus:border-alura-100;
+  }
+
+  .alura-button {
+    @apply bg-alura-100 px-5 py-2 text-gray-200 uppercase rounded-full hover:animate-pulse outline-none focus:shadow-md focus:shadow-gray-500;
+  }
+
+  .alura-card {
+    @apply p-5 bg-gray-200 dark:bg-dark-200 sm:rounded-xl sm:shadow-xl sm:dark:shadow-gray-900 sm:dark:hover:shadow-gray-800 sm:hover:shadow-2xl flex flex-col items-center gap-2;
+  }
+} 

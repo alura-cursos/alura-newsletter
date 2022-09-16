@@ -1,0 +1,35 @@
+[
+  {
+    "title": "Novo Podcast: Bolha Dev",
+    "text": [
+      "A nossa bolha ficou muito mais unida e informada essa semana, com o lançamento do podcast diário Bolha Dev!  Em todas as tardes de segunda a sexta-feira, Marcus Mendes apresenta as melhores notícias da Newsletter do Filipe Deschamps, além de trazer conteúdos e dicas interessantes do Aluraverso.",
+      "Confira o último episódio do Bolha Dev, em que o Marcus falou sobre a Anatel intensificando combate contra pirataria, reconhecimento facial por sonar, treinamento de drones no metaverso e muito mais!"
+    ],
+    "tags": ["podcast", "bolhadev"]
+  },
+  {
+    "title": "Monitoria diária no Discord",
+    "text": [
+      "Desde a semana passada, estamos experimentando uma nova rotina na comunidade do Discord, na escola de Programação! Todas as tardes, os alunos e alunas aproveitam uma Monitoria com duração de uma hora, por meio do canal de voz da comunidade. Além da solução de dúvidas sobre carreira e tecnologia, acontece muita interação entre pessoas de diferentes estágios de aprendizagem.",
+      "Na primeira semana da Monitoria, tivemos 135 participantes! Se você também quiser trocar uma ideia por lá, é só aparecer às 15h no canal Sala de Estudos 1, dentro de Back-end, no Discord."
+    ],
+    "tags": ["discord", "monitoria"]
+  },
+  {
+    "title": "Começou o Challenge Back-End",
+    "text": [
+      "Começa hoje o Challenge Back-End, voltado para alunos e alunas da Alura que querem ter um projeto completo para adicionar ao portfólio e aumentar suas chances no mercado tech.",
+      "Serão quatro semanas para desenvolver uma API Rest de uma aplicação de controle financeiro, realizar validações de regras de negócio, implementar um relatório de informações e também um controle de acesso.",
+      "Ainda dá tempo de se inscrever e participar! Vem aprender colocando a mão na massa, sempre com o suporte do time Alura e da nossa comunidade no Discord."
+    ],
+    "tags": ["back-end", "node", "java"]
+  },
+  {
+    "title": "Como fazer um bom portfólio?",
+    "text": [
+      "No último episódio do #HipstersPontoTube, Diogo Pires e Paulo Silveira conversaram sobre a importância do portfólio e quais são as dicas para criar essa ferramenta essencial para todos os níveis de profissionais. Eles também dão algumas dicas de carreira, respondendo perguntas como “quando é o momento certo de me aplicar nas vagas?”."
+    ],
+    "image": "/example.jpeg",
+    "tags": ["carreira", "podcast"]
+  }
+]
